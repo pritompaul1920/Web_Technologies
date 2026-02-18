@@ -1,0 +1,24 @@
+p {
+    background-color: rgb(164, 119, 60);
+}
+
+.box {
+    height: 50px;
+    width: 50px;
+    background-color: beige;
+    border: 2px solid black;
+    padding: 5px 5px; /* Padding adds space inside the element/container*/
+    margin: 5px 5px; /* Margin adds space outside the box/container */
+}
+
+.box .box1{
+    height: 30px;
+    width: 30;
+    background-color: blueviolet;
+}
+
+.box1 {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(255, 0, 0);
+}
